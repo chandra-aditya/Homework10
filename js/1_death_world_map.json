@@ -3,7 +3,7 @@
   "width": 1400,
   "height": 700,
   "data": {
-    "url": "https://raw.githubusercontent.com/chandra-aditya/Homework10/main/data/death-rates-from-air-pollution.csv"
+    "url": "https://raw.githubusercontent.com/chandra-aditya/DataVisualisation2/main/data/death-rates-from-air-pollution.csv"
   },
   "projection": {"type": "equalEarth"},
   "params": [
